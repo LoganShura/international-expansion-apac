@@ -40,3 +40,17 @@ The analysis intentionally emphasizes **operator realities over theoretical upsi
 - Building capabilities across waves rather than “one-shot expansion”  
 
 This reflects how strategy and BizOps teams assess expansion sequencing inside a real comp
+
+## Tools Used
+- Microsoft Excel — weighted analysis & scoring
+- Strategy storytelling & executive communication principles
+
+## Why This Project Matters
+This work demonstrates:
+- Structured thinking in ambiguous environments  
+- Translating qualitative factors into decision frameworks  
+- Clear, confidence-building executive communication  
+- Sequencing strategy grounded in execution reality  
+
+It reflects how international expansion is evaluated in Strategy, BizOps, and Corporate Transformation roles.
+
